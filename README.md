@@ -23,7 +23,7 @@ SRT という聞きなれないプロトコルを駆使することで、低遅�
 ### 2.1. スタジオ側
 
 * [DISCORD（サーバーも）](https://discord.com/)
-* [vMix (HD エディション以上)](https://www.vmix.com/)
+* [vMix（HD エディション以上）](https://www.vmix.com/)
 * [PARSEC](https://parsec.app/) と、PARSEC を動かす PC （出来ればキャプボ付き、無ければ [NDI tools](https://www.ndi.tv/tools/)導入）
 * ポートフォーワーディング可能なポート番号 2 つ
 * パスワード（10 文字以上 79 文字以下）
