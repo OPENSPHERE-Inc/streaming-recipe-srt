@@ -7,6 +7,8 @@
 
 尚、DISCORD、OBS Studio、vMix、その他配信に関する基本的な知識、PCの知識があることを前提とします。
 
+SRT に関する説明は、[「ビューイング配信システム」の記事](https://blog.opensphere.co.jp/posts/remotework001) を読んでいる前提として割愛します。
+
 ## 1. 要件定義
 
 1. 出演者はゲームに参加し実況プレーするプレイング配信。
