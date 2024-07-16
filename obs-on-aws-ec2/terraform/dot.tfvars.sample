@@ -1,0 +1,6 @@
+# Replace values below and rename file to .auto.tfvars
+name = "Instance Name"
+key_name = "EC2 Key Pair Name"
+vpc_id = "VPC ID"
+subnet_id = "Subnet ID"
+iam_role_name = "IAM Role Name"
