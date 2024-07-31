@@ -7,9 +7,9 @@ SRT というプロトコルを使用して、リモート配信の環境下で�
 ## レシピ一覧
 
 1. [ビューイング配信（出演者2名分）](for-viewing-2casters/) - 2021/01/10 ver1.00 公開
-2. [プレイング配信（出演者2名分）](for-playing-2casters/) - 2021/01/12 ver1.00 公開
-3. [モバイル配信（デバイス2台分）](for-mobile-2devices/) - 2021/01/23 ver1.00 公開
-4. [AWS EC2 + OBS Studio](obs-on-aws-ec2/) - 2024/07/09 ver1.00 公開
+2. [モバイル配信（デバイス2台分）](for-mobile-2devices/) - 2021/01/23 ver1.00 公開
+3. [AWS EC2 + OBS Studio](obs-on-aws-ec2/) - 2024/07/30 ver1.01 更新
+4. [プレイング配信（出演者2名分）【改良版】](for-playing-2casters-1obs/) - 2024/07/30 ver2.00 公開
 
 ## コンタクト
 
