@@ -36,7 +36,7 @@ SRT に関する説明は、[「ビューイング配信システム」の記事
 
 * [DISCORD](https://discord.com/)
 * [OBS Studio](https://obsproject.com/) ※v30.1 以上
-* [Branch Output プラグイン](https://obsproject.com/forum/resources/branch-output.1987/)
+* [Branch Output プラグイン](https://github.com/OPENSPHERE-Inc/branch-output)
 * Webcam
 * その他、出演者がいつも使ってる配信機材
 * アップロード・ダウンロード共に　50 Mbps 以上出る光インターネット回線
@@ -143,7 +143,7 @@ DISCORD は出演者間のボイスコミュニケーションと、スタジオ
 以前のレシピと違い、OBS Studio は 1 つのインスタンス起動で事足ります。
 プラグインを使用して、ゲーム映像と Webcam をパラで送出します。
 
-OBS Studio に[Branch Output プラグイン](https://obsproject.com/forum/resources/branch-output.1987/) をインストールしてください。
+OBS Studio に[Branch Output プラグイン](https://github.com/OPENSPHERE-Inc/branch-output) をインストールしてください。
 
 [Branch Output プラグインの使い方はこちら](https://blog.opensphere.co.jp/posts/branchoutput001)
 
